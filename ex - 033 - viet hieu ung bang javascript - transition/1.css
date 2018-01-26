@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0;}
+.text-xs-center {
+    padding-bottom: 50px;
+}
+
+.card {transition: 0.4s;}
+
+.diphai {
+	transform:translateX(600px);
+}
